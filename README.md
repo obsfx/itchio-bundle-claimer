@@ -31,7 +31,7 @@ npm install
 npm run run-chrome
 ```
 
-3. Open a new chrome window and type `127.0.0.1:9000` at the address bar.
+3. Open a new chrome window and type `127.0.0.1:9000` in the address bar.
 
 ![](https://raw.githubusercontent.com/obsfx/itchio-bundle-claimer/master/media/1.png)
 
