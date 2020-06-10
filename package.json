@@ -1,0 +1,15 @@
+{
+  "name": "itchio_bundle_claimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare-chromedriver": "unzip ./chromedriver_linux64.zip && sudo mv ./chromedriver /usr/bin/chromedriver",
+    "run-chrome": "google-chrome --remote-debugging-port=9000 --headless --no-sandbox --disable-setuid-sandbox --disable-gpu"
+  },
+  "author": "obsfx",
+  "license": "WTFPL",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
