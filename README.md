@@ -37,7 +37,7 @@ npm run run-chrome
 
 4. Click that the `about:blank`
 
-5. Type and go to `itch.io` by using that sub address bar.
+5. Type `itch.io` in that sub address bar and go to that page.
 
 ![](https://raw.githubusercontent.com/obsfx/itchio-bundle-claimer/master/media/2.png)
 
