@@ -1,5 +1,26 @@
 # itch.io bundle claimer
 
+---
+
+## 🚨⚠️ We have a message from the creator of itch.io.
+
+Original issue: https://github.com/obsfx/itchio-bundle-claimer/issues/7#issue-5053014043
+
+**TL;DR:** Deferred download keys from mega bundles are now fully supported by both the itch.io website and app. There is no longer any benefit to using this script, and running it may negatively affect your library and account. **The creator strongly recommends that users avoid using it.**
+
+> When this tool first came out, there were some differences between the site and the app that meant “deferred download keys” from mega bundles could not be used in the same way as regular purchases. Since then, we’ve addressed all of these issues. We regularly have to strongly advise people not to use scripts like this and perform manual cleanup on their accounts.
+>
+> If possible, I’d prefer that you add a prominent disclaimer or warning advising users not to use this script, as it can negatively affect their library. It may make them more likely to hit rate limits when using the app, cause performance issues elsewhere on the site, negatively affect their recommendations, or subscribe them to game update emails from thousands of developers they likely do not care about.
+>
+> As far as I know, there is no advantage to running this script today. The last remaining issue was proper support for mega bundles in the app, and that feature has now launched:
+> https://itch.io/updates/itch-app-bundle-support-launch-args-and-more
+>
+> If you believe there are still areas of the site that do not treat deferred download keys in the same way as individual purchases, please let me know.
+>
+> Thanks.
+
+---
+
 [Bundle for Racial Justice and Equality](https://itch.io/b/520/bundle-for-racial-justice-and-equality)
 
 A simple script that is using `selenium` to help you for adding all bundle items
